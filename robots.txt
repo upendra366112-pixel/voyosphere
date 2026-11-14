@@ -1,0 +1,12 @@
+# VoyoSphere Robots.txt
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /feed/
+Disallow: /comments/feed/
+
+# Sitemap location
+Sitemap: https://travelease-voyosphere.web.app/sitemap.xml
